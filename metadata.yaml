@@ -11,6 +11,9 @@ contributor:
     deathdate: 1920
     gutenberg_agent_id: '47680'
     url: http://www.gutenberg.org/2009/agents/47680
+covers:
+- cover_type: archival
+  image_path: 54064-h/images/cover.jpg
 creator:
   author:
     agent_name: Quiroga, Adán
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '47688'
     url: http://www.gutenberg.org/2009/agents/47688
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54064#La-cruz-en-America-Arqueologia-Argentina
 gutenberg_issued: '2017-01-28'
 gutenberg_type: Text
 identifiers:
